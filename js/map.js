@@ -84,7 +84,7 @@ var farmslayer = L.geoJson(farms,{
 onEachFeature:function (feature,layer){
 
     label = `Farm Location: ${feature.properties.Location}<br>`
-    label += `Farms size: ${feature.properties.Null}<br>`
+    label += `Farm size: ${feature.properties.Null}<br>`
 
     layer.bindPopup(label)
     }
