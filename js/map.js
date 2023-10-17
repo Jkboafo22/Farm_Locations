@@ -113,7 +113,7 @@ var overlays = {
 
 
 //Add layer control to map
-L.control.layers(baseLayers, overlays,{collapsed:false}).addTo(map);
+L.control.layers(baseLayers, overlays).addTo(map);
 
 
 //Add leaflet browser print control to map
