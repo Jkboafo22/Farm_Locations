@@ -1,4 +1,3 @@
 # A Simple Webapp of Farm Locations 
 
-https://github.com/Jkboafo22/Farm_Locations.git
- 
+https://jkboafo22.github.io/Farm_Locations/ 
