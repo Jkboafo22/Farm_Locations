@@ -6,18 +6,30 @@
 
 ## Discover and explore farms near you! 🌍
 
+💡 Description:
+Our Farm Locator Web App is designed to help users find farms in their area with ease. Using advanced GIS technology, the app provides up-to-date information on farm locations, types of produce, contact details, and more. Whether you're a consumer looking for fresh produce, a farmer wanting to connect with nearby farms, or just someone interested in agriculture, this app is perfect for you!
 
-🔍 Features:
 
-Interactive maps 🗺️
 
-Real-time updates 📡
+## 🔍 Features:
 
-Detailed farm information 📝
+🗺️ Interactive Maps: Easily navigate and find farm locations.
+
+📡 Real-Time Updates: Stay informed with the latest data.
+
+
+📝 Detailed Farm Information: Access comprehensive details about each farm.
+
+
+📱 Responsive Design: Use it on any device, anywhere.
+
+
+🔄 User-Friendly Interface: Intuitive and easy to use.
+
+
 
 
 🌟 Check it out: [https://jkboafo22.github.io/Farm_Locations/]
-
 
 
 
