@@ -33,6 +33,7 @@ Our Farm Locator Web App is designed to help users find farms in their area with
 
 
 
-![farm](https://github.com/Jkboafo22/Farm_Locations/assets/65027196/931d0772-d038-4494-b594-0edcdfb47031)
+![farm1](https://github.com/Jkboafo22/Farm_Locations/assets/65027196/2ebbee2a-77ae-4edc-af7f-c6a27678f9e5)
+
 
 #FarmLocator #WebApp #GIS #Agriculture #OpenSource
